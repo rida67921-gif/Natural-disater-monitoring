@@ -1,0 +1,8 @@
+{
+  "name": "Remix EIN — Environmental Intelligence Network",
+  "description": "Tactical disaster-monitoring IoT command dashboard with live risk mapping, digital twin simulation, and RF mesh propagation analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
